@@ -1,1 +1,2 @@
 Hi today will learn about fetch
+and also learn pull
